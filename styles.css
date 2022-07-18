@@ -5,11 +5,15 @@ body {
     display: block
 }
   
-#mainHeading {
-    color: red;
-    text-align: center;
-    font-size: 50px;
-    font-family: 'Cookie', serif;
+p {
+    font-family: 'Quicksand', serif;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 .img {
@@ -17,21 +21,26 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
 
 h2 {
     font-family: 'Cookie', serif;
     font-size: 35px;
+    text-align: center;
 }
 
 h3 {
     font-family: 'Cookie', serif;
     font-size: 32px;
+    text-align: center;
 }
 
-p {
-    background-color: pink;
-  }
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Cookie', serif;
+}
 
 .funParagraph {
     color: green;
