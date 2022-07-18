@@ -45,3 +45,8 @@ h3 {
 .funParagraph {
     color: green;
 }
+
+#footer {
+    font-size: 14px;
+    text-align: center;
+}
