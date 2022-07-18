@@ -1,1 +1,52 @@
-/* Write your CSS here! */
+
+body {
+    font-size: 24px;
+    margin-right: 8px;
+    display: block
+}
+  
+p {
+    font-family: 'Quicksand', serif;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    font-family: 'Cookie', serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Cookie', serif;
+    font-size: 32px;
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Cookie', serif;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#footer {
+    font-size: 14px;
+    text-align: center;
+}
